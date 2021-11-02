@@ -6,8 +6,8 @@
 > Adam Finlayson<br>
 ***
 
-Project Scope and Instructions can be found [here](ENCE464_T3_project_v2_2021.pdf).
-Built with Code Composer Studio (CCS).
+Project Scope and Instructions can be found [here](ENCE464_T3_project_v2_2021.pdf).</br>
+Built with Code Composer Studio (CCS).</br>
 **Note:** Project unfinished, capped by COVID19. No access to labs.
 
 
